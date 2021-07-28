@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @andehui
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+嘿，你好，我是志輝，好久不見！
+Youtube:https://www.youtube.com/channel/UC6LrrQ-4g7U6gnRdjm3HpkA/
+博客：https://honeygain.cn/
+搜索引擎：https://honeygain.cn/soya
 
-<!---
-andehui/andehui is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+andehui115@gmail.com
